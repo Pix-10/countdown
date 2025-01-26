@@ -1,8 +1,7 @@
 # Đếm Ngược Tết Ất Tỵ 2025
 
 ## Xem đếm ngược Tết Online
-https://pix-10.github.io/countdown/countdowntet.html
-
+https://pix-10.github.io/countdowntet/countdowntet.html
 ## Mô tả
 Dự án này tạo ra một trang web hiển thị bộ đếm ngược thời gian đến Tết Âm Lịch 2025. Khi thời gian đếm ngược kết thúc, thông điệp "Chúc Mừng Năm Mới!" sẽ xuất hiện trên màn hình.
 
