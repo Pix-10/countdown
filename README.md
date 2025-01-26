@@ -1,4 +1,4 @@
-# Dự án: Đếm Ngược Tết Ất Tỵ 2025
+# Đếm Ngược Tết Ất Tỵ 2025
 
 ## Xem đếm ngược Tết Online
 https://pix-10.github.io/countdown/countdowntet.html
