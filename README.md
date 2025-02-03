@@ -1,9 +1,9 @@
-# Đếm Ngược Tết Ất Tỵ 2025
+# Đếm Ngược Tết Bính Ngọ 2026
 
 ## Xem đếm ngược Tết Online
 https://pix-10.github.io/countdowntet/countdowntet.html
 ## Mô tả
-Dự án này tạo ra một trang web hiển thị bộ đếm ngược thời gian đến Tết Âm Lịch 2025. Khi thời gian đếm ngược kết thúc, thông điệp "Chúc Mừng Năm Mới!" sẽ xuất hiện trên màn hình.
+Dự án này tạo ra một trang web hiển thị bộ đếm ngược thời gian đến Tết Âm Lịch 2026. Khi thời gian đếm ngược kết thúc, thông điệp "Chúc Mừng Năm Mới!" sẽ xuất hiện trên màn hình.
 
 ## Cách sử dụng
 1. Tải toàn bộ mã nguồn của dự án.
@@ -18,7 +18,7 @@ Dự án này tạo ra một trang web hiển thị bộ đếm ngược thời 
 ## Ghi chú
 - Bạn có thể thay đổi ngày mục tiêu bằng cách cập nhật dòng sau trong mã JavaScript:
   ```javascript
-  const targetDate = new Date('January 29, 2025 00:00:00').getTime();
+  const targetDate = new Date('February 17, 2026 00:00:00').getTime();
   ```
 - Đảm bảo có kết nối internet để tải font từ Google Fonts.
 
