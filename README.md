@@ -1,4 +1,4 @@
-# Đếm Ngược Tết Bính Ngọ 2026
+# Đếm Ngược Tết Nguyên Đán 2026
 
 ## Xem đếm ngược Tết Online
 https://pix-10.github.io/countdowntet/countdowntet.html
